@@ -10,4 +10,4 @@ def get_days_from_today(date):
         return "Wrong format"
     else:
         return difference.days
-print(get_days_from_today('2026-08-10')) 
+print(get_days_from_today('2026-08-10'))
